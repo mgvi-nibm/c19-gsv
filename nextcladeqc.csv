@@ -11970,7 +11970,6 @@ hCoV-19/Malaysia/A453/2021,EPI_ISL_11754764,21K (Omicron),1.03E+02,bad,Jabatan K
 hCoV-19/Malaysia/3249476/2022,EPI_ISL_11754765,21K (Omicron),8.57E+01,mediocre,UMMC,UMMC
 hCoV-19/Malaysia/A446/2021,EPI_ISL_11754766,21K (Omicron),2.94E+02,bad,Pejabat Kesihatan Daerah Kuala Kangsar,UMMC
 hCoV-19/Malaysia/A476/2022,EPI_ISL_11754767,21K (Omicron),4.15E-02,good,Pejabat Kesihatan Daerah Kota Bharu,UMMC
-hCoV-19/Malaysia/5857718/2022,EPI_ISL_11754768,21K (Omicron),7.72E+01,mediocre,UMMC,UMMC
 hCoV-19/Malaysia/A479/2022,EPI_ISL_11754769,21K (Omicron),6.36E+00,good,Pejabat Kesihatan Daerah Tumpat,UMMC
 hCoV-19/Malaysia/3253051/2022,EPI_ISL_11754770,21K (Omicron),5.21E+00,good,UMMC,UMMC
 hCoV-19/Malaysia/3243940/2022,EPI_ISL_11754771,21K (Omicron),5.76E+00,good,UMMC,UMMC
@@ -13472,3 +13471,1081 @@ hCoV-19/Malaysia/IMR_WC214095/2022,EPI_ISL_12010112,21L (Omicron),7.60E+01,medio
 hCoV-19/Malaysia/IMR_WC214096/2022,EPI_ISL_12010113,21L (Omicron),1.19E+03,bad,Pejabat Kesihatan KLIA,IMR
 hCoV-19/Malaysia/IMR_WC214124/2022,EPI_ISL_12010114,21L (Omicron),2.42E+03,bad,Pejabat Kesihatan KLIA,IMR
 hCoV-19/Malaysia/IMR_WC214141/2022,EPI_ISL_12010115,21L (Omicron),5.34E+02,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/C19UMB1635/2022,EPI_ISL_12055306,21L (Omicron),4.743,good,Hospital Sultanah Aminah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1588/2022,EPI_ISL_12055307,21L (Omicron),4.807,good,Pejabat Kesihatan Daerah Tampin,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1566/2022,EPI_ISL_12055308,21L (Omicron),4.711,good,Hospital Tuanku Ja'afar,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1621/2022,EPI_ISL_12055309,21L (Omicron),593.554,bad,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1623/2022,EPI_ISL_12055310,21L (Omicron),27.582,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1563/2022,EPI_ISL_12055311,21L (Omicron),13.336,good,Hospital Melaka,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1626/2022,EPI_ISL_12055312,21K (Omicron),0.000,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1625/2022,EPI_ISL_12055313,21K (Omicron),0.000,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1637/2022,EPI_ISL_12055314,21L (Omicron),4.743,good,Hospital Tuanku Ja'afar,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1613/2022,EPI_ISL_12055315,21L (Omicron),27.972,good,Hospital Tuanku Ja'afar,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1572/2022,EPI_ISL_12055316,21K (Omicron),0.001,good,Klinik Kesihatan Jelai,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1601/2022,EPI_ISL_12055317,21L (Omicron),33.426,mediocre,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1595/2022,EPI_ISL_12055318,21K (Omicron),5.222,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1610/2022,EPI_ISL_12055319,21L (Omicron),4.727,good,Hospital Sultanah Aminah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1592/2022,EPI_ISL_12055320,21K (Omicron),0.000,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1609/2022,EPI_ISL_12055321,21L (Omicron),0.000,good,Hospital Sultanah Aminah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1594/2022,EPI_ISL_12055322,21L (Omicron),6.760,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1622/2022,EPI_ISL_12055323,21L (Omicron),21.882,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1599/2022,EPI_ISL_12055324,21L (Omicron),59.062,mediocre,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1591/2022,EPI_ISL_12055325,21L (Omicron),5.654,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1571/2022,EPI_ISL_12055326,21K (Omicron),0.000,good,Pejabat Kesihatan Daerah Tampin,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1575/2022,EPI_ISL_12055327,21K (Omicron),600.431,bad,Hospital Sultanah Aminah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1606/2022,EPI_ISL_12055328,21L (Omicron),6.066,good,Hospital Sultanah Aminah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1580/2022,EPI_ISL_12055329,21K (Omicron),9.314,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1585/2022,EPI_ISL_12055330,21K (Omicron),5.239,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1631/2022,EPI_ISL_12055331,21L (Omicron),6.066,good,Hospital Sultanah Aminah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1573/2022,EPI_ISL_12055332,21L (Omicron),4.727,good,Pejabat Kesihatan Daerah Tampin,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1538/2022,EPI_ISL_12055333,21K (Omicron),588.152,bad,Hospital Pakar Sultanah Fatimah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1608/2022,EPI_ISL_12055334,21L (Omicron),826.030,bad,Hospital Sultanah Aminah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1584/2022,EPI_ISL_12055335,21L (Omicron),17.269,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1605/2022,EPI_ISL_12055336,21L (Omicron),24.521,good,Hospital Sultanah Aminah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1593/2022,EPI_ISL_12055337,21K (Omicron),6.760,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1633/2022,EPI_ISL_12055338,21L (Omicron),4.743,good,Hospital Sultanah Aminah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1590/2022,EPI_ISL_12055339,21K (Omicron),0.000,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1539/2022,EPI_ISL_12055340,21L (Omicron),529.341,bad,Hospital Pakar Sultanah Fatimah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1544/2022,EPI_ISL_12055341,21L (Omicron),182.350,bad,Hospital Pakar Sultanah Fatimah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1551/2022,EPI_ISL_12055342,21L (Omicron),205.976,bad,Hospital Pakar Sultanah Fatimah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1634/2022,EPI_ISL_12055343,21L (Omicron),24.338,good,Hospital Sultanah Aminah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1570/2022,EPI_ISL_12055344,21K (Omicron),5.239,good,Pejabat Kesihatan Daerah Tampin,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1615/2022,EPI_ISL_12055345,21K (Omicron),20.250,good,Hospital Tuanku Ja'afar,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1598/2022,EPI_ISL_12055346,21L (Omicron),4.711,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1617/2022,EPI_ISL_12055347,21L (Omicron),317.896,bad,Pejabat Kesihatan Daerah Johor Bahru,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1586/2022,EPI_ISL_12055348,21K (Omicron),0.000,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1636/2022,EPI_ISL_12055349,21L (Omicron),4.775,good,Hospital Sultanah Aminah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1596/2022,EPI_ISL_12055350,21K (Omicron),2.953,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1568/2022,EPI_ISL_12055351,21L (Omicron),4.807,good,Hospital Tuanku Ja'afar,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1583/2022,EPI_ISL_12055352,21K (Omicron),5.256,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1564/2022,EPI_ISL_12055353,21L (Omicron),24.521,good,Hospital Melaka,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1629/2022,EPI_ISL_12055354,21L (Omicron),6.084,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1589/2022,EPI_ISL_12055355,21K (Omicron),5.222,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1619/2022,EPI_ISL_12055356,21L (Omicron),14.021,good,Pejabat Kesihatan Daerah Johor Bahru,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1620/2022,EPI_ISL_12055357,21L (Omicron),33.554,mediocre,Pejabat Kesihatan Daerah Johor Bahru,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1567/2022,EPI_ISL_12055358,21L (Omicron),17.084,good,Hospital Tuanku Ja'afar,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1556/2022,EPI_ISL_12055359,21L (Omicron),91.592,mediocre,Klinik Kesihatan Mahmoodiah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1607/2022,EPI_ISL_12055360,21L (Omicron),27.894,good,Hospital Sultanah Aminah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1587/2022,EPI_ISL_12055361,21K (Omicron),0.000,good,Pejabat Kesihatan Daerah Tampin,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1612/2022,EPI_ISL_12055362,21L (Omicron),4.711,good,Hospital Tuanku Ja'afar,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1562/2022,EPI_ISL_12055363,21L (Omicron),24.521,good,Hospital Melaka,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1603/2022,EPI_ISL_12055364,21K (Omicron),5.273,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1628/2022,EPI_ISL_12055365,21L (Omicron),5.654,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1569/2022,EPI_ISL_12055366,21L (Omicron),4.759,good,Hospital Tuanku Ja'afar,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1546/2022,EPI_ISL_12055367,21L (Omicron),4.775,good,Hospital Pakar Sultanah Fatimah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1604/2022,EPI_ISL_12055368,21L (Omicron),34.635,mediocre,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1542/2022,EPI_ISL_12055369,21K (Omicron),28.642,good,Hospital Pakar Sultanah Fatimah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1559/2022,EPI_ISL_12055370,21L (Omicron),10.961,good,Hospital Melaka,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1632/2022,EPI_ISL_12055371,21L (Omicron),258.733,bad,Hospital Sultanah Aminah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1577/2022,EPI_ISL_12055372,21L (Omicron),27.543,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1600/2022,EPI_ISL_12055373,21K (Omicron),7.614,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1565/2022,EPI_ISL_12055374,21L (Omicron),4.743,good,Hospital Tuanku Ja'afar,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1582/2022,EPI_ISL_12055375,21K (Omicron),5.917,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1535/2022,EPI_ISL_12055376,21K (Omicron),4.000,good,Hospital Pakar Sultanah Fatimah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1581/2022,EPI_ISL_12055377,21L (Omicron),24.521,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1618/2022,EPI_ISL_12055378,21L (Omicron),5.760,good,Pejabat Kesihatan Daerah Johor Bahru,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1602/2022,EPI_ISL_12055379,21K (Omicron),5.239,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1624/2022,EPI_ISL_12055380,21L (Omicron),4.727,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1552/2022,EPI_ISL_12055381,21K (Omicron),2.584,good,Hospital Pakar Sultanah Fatimah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1537/2022,EPI_ISL_12055382,21J (Delta),11.111,good,Hospital Pakar Sultanah Fatimah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1576/2022,EPI_ISL_12055383,21K (Omicron),26.503,good,Hospital Sultanah Aminah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1549/2022,EPI_ISL_12055384,21L (Omicron),22.195,good,Hospital Pakar Sultanah Fatimah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1616/2022,EPI_ISL_12055385,21L (Omicron),27.621,good,Hospital Tuanku Ja'afar,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1611/2022,EPI_ISL_12055386,21L (Omicron),6.276,good,Hospital Sultanah Aminah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1579/2022,EPI_ISL_12055387,21L (Omicron),33.468,mediocre,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1574/2022,EPI_ISL_12055388,21L (Omicron),4.711,good,Pejabat Kesihatan Daerah Tampin,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1578/2022,EPI_ISL_12055389,21L (Omicron),54.925,mediocre,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1614/2022,EPI_ISL_12055390,21L (Omicron),4.711,good,Hospital Tuanku Ja'afar,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1627/2022,EPI_ISL_12055391,21L (Omicron),5.341,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1561/2022,EPI_ISL_12055392,21L (Omicron),20.922,good,Hospital Melaka,UMBI-UKM
+hCoV-19/Malaysia/IMR_WC216293/2022,EPI_ISL_12061277,21K (Omicron),29.986,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216295/2022,EPI_ISL_12061278,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216310/2022,EPI_ISL_12061279,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216311/2022,EPI_ISL_12061280,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216313/2022,EPI_ISL_12061281,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216425/2022,EPI_ISL_12061282,21L (Omicron),4.759,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216427/2022,EPI_ISL_12061283,21L (Omicron),4.807,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216428/2022,EPI_ISL_12061284,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216429/2022,EPI_ISL_12061285,21L (Omicron),34.592,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216432/2022,EPI_ISL_12061286,21L (Omicron),38.302,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216433/2022,EPI_ISL_12061287,21L (Omicron),4.743,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216449/2022,EPI_ISL_12061288,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216450/2022,EPI_ISL_12061289,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216570/2022,EPI_ISL_12061290,21L (Omicron),4.775,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216583/2022,EPI_ISL_12061291,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216600/2022,EPI_ISL_12061292,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216603/2022,EPI_ISL_12061293,21L (Omicron),5.021,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216604/2022,EPI_ISL_12061294,21L (Omicron),4.743,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216605/2022,EPI_ISL_12061295,21L (Omicron),4.775,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216609/2022,EPI_ISL_12061296,21L (Omicron),4.743,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216747/2022,EPI_ISL_12061297,21L (Omicron),38.302,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216749/2022,EPI_ISL_12061298,recombinant,2,053.768,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216750/2022,EPI_ISL_12061299,21L (Omicron),4.759,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216794/2022,EPI_ISL_12061300,21L (Omicron),928.669,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216875/2022,EPI_ISL_12061301,21L (Omicron),5.256,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216878/2022,EPI_ISL_12061302,21L (Omicron),7.799,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216879/2022,EPI_ISL_12061303,21L (Omicron),3.043,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC216880/2022,EPI_ISL_12061304,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217215/2022,EPI_ISL_12061305,21L (Omicron),4.743,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217219/2022,EPI_ISL_12061306,21L (Omicron),3.043,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217402/2022,EPI_ISL_12061307,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217485/2022,EPI_ISL_12061308,21L (Omicron),5.324,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217491/2022,EPI_ISL_12061309,21L (Omicron),34.288,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217494/2022,EPI_ISL_12061310,21L (Omicron),4.743,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217496/2022,EPI_ISL_12061311,21L (Omicron),4.807,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217497/2022,EPI_ISL_12061312,21L (Omicron),5.038,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217500/2022,EPI_ISL_12061313,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217568/2022,EPI_ISL_12061314,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217570/2022,EPI_ISL_12061315,21L (Omicron),49.465,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217806/2022,EPI_ISL_12061316,21L (Omicron),5.290,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217809/2022,EPI_ISL_12061317,21L (Omicron),4.922,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217812/2022,EPI_ISL_12061318,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217817/2022,EPI_ISL_12061319,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217818/2022,EPI_ISL_12061320,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217819/2022,EPI_ISL_12061321,21L (Omicron),55.310,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217821/2022,EPI_ISL_12061322,21L (Omicron),9.111,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217825/2022,EPI_ISL_12061323,21L (Omicron),5.256,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217827/2022,EPI_ISL_12061324,21L (Omicron),5.004,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217828/2022,EPI_ISL_12061325,21L (Omicron),5.222,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217833/2022,EPI_ISL_12061326,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217840/2022,EPI_ISL_12061327,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217845/2022,EPI_ISL_12061328,21L (Omicron),3.121,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217847/2022,EPI_ISL_12061329,21L (Omicron),4.743,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217848/2022,EPI_ISL_12061330,21L (Omicron),4.905,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217903/2022,EPI_ISL_12061331,21L (Omicron),4.775,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217904/2022,EPI_ISL_12061332,21L (Omicron),3.082,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217905/2022,EPI_ISL_12061333,21L (Omicron),4.873,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217907/2022,EPI_ISL_12061334,21L (Omicron),4.743,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217914/2022,EPI_ISL_12061335,21L (Omicron),34.244,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217915/2022,EPI_ISL_12061336,21L (Omicron),4.759,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217916/2022,EPI_ISL_12061337,21L (Omicron),5.138,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217917/2022,EPI_ISL_12061338,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217921/2022,EPI_ISL_12061339,21L (Omicron),4.743,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217924/2022,EPI_ISL_12061340,21L (Omicron),15.268,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217928/2022,EPI_ISL_12061341,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217931/2022,EPI_ISL_12061342,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217932/2022,EPI_ISL_12061343,21L (Omicron),5.273,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217938/2022,EPI_ISL_12061344,21L (Omicron),4.759,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217941/2022,EPI_ISL_12061345,21L (Omicron),5.021,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217943/2022,EPI_ISL_12061346,21L (Omicron),5.222,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217945/2022,EPI_ISL_12061347,21L (Omicron),1.310,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217948/2022,EPI_ISL_12061348,21L (Omicron),2.351,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217950/2022,EPI_ISL_12061349,21L (Omicron),5.054,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217952/2022,EPI_ISL_12061350,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217965/2022,EPI_ISL_12061351,21L (Omicron),5.324,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217968/2022,EPI_ISL_12061352,21L (Omicron),5.088,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217969/2022,EPI_ISL_12061353,21L (Omicron),4.134,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217970/2022,EPI_ISL_12061354,21L (Omicron),3.240,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217971/2022,EPI_ISL_12061355,21L (Omicron),5.021,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217972/2022,EPI_ISL_12061356,21L (Omicron),4.759,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217981/2022,EPI_ISL_12061357,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217660/2022,EPI_ISL_12061358,21L (Omicron),4.759,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217666/2022,EPI_ISL_12061359,21L (Omicron),4.743,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217672/2022,EPI_ISL_12061360,21L (Omicron),5.256,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217673/2022,EPI_ISL_12061361,21L (Omicron),5.447,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217682/2022,EPI_ISL_12061362,21L (Omicron),22.792,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217692/2022,EPI_ISL_12061363,21L (Omicron),30.947,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217695/2022,EPI_ISL_12061364,21L (Omicron),4.743,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217698/2022,EPI_ISL_12061365,21K (Omicron),5.273,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217700/2022,EPI_ISL_12061366,21L (Omicron),4.824,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217705/2022,EPI_ISL_12061367,21L (Omicron),2.704,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217706/2022,EPI_ISL_12061368,21L (Omicron),2.466,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_CV03924/2022,EPI_ISL_12084287,21L (Omicron),0.000,good,Hospital Queen Elizabeth,IMR
+hCoV-19/Malaysia/IMR_CV03927/2022,EPI_ISL_12084288,21L (Omicron),59.028,mediocre,Hospital Queen Elizabeth,IMR
+hCoV-19/Malaysia/IMR_CV03928/2022,EPI_ISL_12084291,21K (Omicron),0.000,good,Hospital Queen Elizabeth,IMR
+hCoV-19/Malaysia/IMR_CV03930/2022,EPI_ISL_12084293,21L (Omicron),0.000,good,Hospital Queen Elizabeth,IMR
+hCoV-19/Malaysia/IMR_CV03931/2022,EPI_ISL_12084295,21L (Omicron),21.007,good,Hospital Queen Elizabeth,IMR
+hCoV-19/Malaysia/IMR_CV03932/2022,EPI_ISL_12084296,21L (Omicron),8.507,good,Hospital Queen Elizabeth,IMR
+hCoV-19/Malaysia/IMR_CV03903/2022,EPI_ISL_12084298,21L (Omicron),0.000,good,Hospital Queen Elizabeth,IMR
+hCoV-19/Malaysia/IMR_WC196736/2022,EPI_ISL_12084299,21K (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC196752/2022,EPI_ISL_12084301,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC196349/2022,EPI_ISL_12084303,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC196672/2022,EPI_ISL_12084305,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC196668/2022,EPI_ISL_12084308,21L (Omicron),1.563,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC196248/2022,EPI_ISL_12084309,21L (Omicron),4.340,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC196386/2022,EPI_ISL_12084310,21L (Omicron),0.174,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC196621/2022,EPI_ISL_12084311,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC196819/2022,EPI_ISL_12084312,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC196849/2022,EPI_ISL_12084313,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC196577/2022,EPI_ISL_12084314,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_CV04009/2022,EPI_ISL_12084315,21L (Omicron),0.000,good,MKAK,IMR
+hCoV-19/Malaysia/IMR_CV04015/2022,EPI_ISL_12084316,21L (Omicron),0.000,good,MKAK,IMR
+hCoV-19/Malaysia/IMR_CV04028/2022,EPI_ISL_12084318,21L (Omicron),0.694,good,MKAK,IMR
+hCoV-19/Malaysia/IMR_WC231127/2022,EPI_ISL_12084320,21L (Omicron),0.174,good,Pejabat Kesihatan Daerah Kepong,IMR
+hCoV-19/Malaysia/IMR_WC231133/2022,EPI_ISL_12084321,21L (Omicron),0.000,good,Klinik Kesihatan Pelabuhan Klang,IMR
+hCoV-19/Malaysia/IMR_WC236425/2022,EPI_ISL_12084330,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217724/2022,EPI_ISL_12085945,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217732/2022,EPI_ISL_12085946,21L (Omicron),4.759,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217733/2022,EPI_ISL_12085947,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217737/2022,EPI_ISL_12085948,21L (Omicron),4.743,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217739/2022,EPI_ISL_12085949,21L (Omicron),13.827,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217740/2022,EPI_ISL_12085950,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217746/2022,EPI_ISL_12085951,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217751/2022,EPI_ISL_12085952,recombinant,2,051.419,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217754/2022,EPI_ISL_12085953,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217776/2022,EPI_ISL_12085954,21L (Omicron),20.384,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217787/2022,EPI_ISL_12085955,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217789/2022,EPI_ISL_12085956,21L (Omicron),6.818,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217790/2022,EPI_ISL_12085957,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217862/2022,EPI_ISL_12085958,21L (Omicron),104.645,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217873/2022,EPI_ISL_12085959,21K (Omicron),5.256,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217984/2022,EPI_ISL_12085960,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217985/2022,EPI_ISL_12085961,21L (Omicron),4.759,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217986/2022,EPI_ISL_12085962,21L (Omicron),4.775,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217987/2022,EPI_ISL_12085963,21L (Omicron),13.800,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217991/2022,EPI_ISL_12085964,21L (Omicron),4.775,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217992/2022,EPI_ISL_12085965,21L (Omicron),3.043,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217993/2022,EPI_ISL_12085966,21L (Omicron),5.071,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217994/2022,EPI_ISL_12085967,21L (Omicron),4.840,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC217996/2022,EPI_ISL_12085968,21L (Omicron),6.437,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218000/2022,EPI_ISL_12085969,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218001/2022,EPI_ISL_12085970,21L (Omicron),4.775,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218002/2022,EPI_ISL_12085971,21L (Omicron),4.743,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218004/2022,EPI_ISL_12085972,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218005/2022,EPI_ISL_12085973,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218041/2022,EPI_ISL_12085974,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218088/2022,EPI_ISL_12085975,21L (Omicron),4.807,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218090/2022,EPI_ISL_12085976,21L (Omicron),34.244,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218093/2022,EPI_ISL_12085977,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218094/2022,EPI_ISL_12085978,21L (Omicron),23.325,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218103/2022,EPI_ISL_12085979,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218129/2022,EPI_ISL_12085980,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218146/2022,EPI_ISL_12085981,21L (Omicron),3.596,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218167/2022,EPI_ISL_12085982,21L (Omicron),6.048,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218168/2022,EPI_ISL_12085983,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218169/2022,EPI_ISL_12085984,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218171/2022,EPI_ISL_12085985,21L (Omicron),5.975,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218172/2022,EPI_ISL_12085986,21L (Omicron),10.977,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218174/2022,EPI_ISL_12085987,21K (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218179/2022,EPI_ISL_12085988,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218180/2022,EPI_ISL_12085989,21L (Omicron),63.291,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218185/2022,EPI_ISL_12085990,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218191/2022,EPI_ISL_12085991,21L (Omicron),4.759,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218195/2022,EPI_ISL_12085992,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218200/2022,EPI_ISL_12085993,21L (Omicron),34.244,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218296/2022,EPI_ISL_12085994,21L (Omicron),4.759,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218298/2022,EPI_ISL_12085995,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218306/2022,EPI_ISL_12085996,21L (Omicron),3.030,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218310/2022,EPI_ISL_12085997,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218314/2022,EPI_ISL_12085998,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218324/2022,EPI_ISL_12085999,21L (Omicron),26.351,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218335/2022,EPI_ISL_12086000,21L (Omicron),4.884,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218344/2022,EPI_ISL_12086001,21L (Omicron),4.195,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218354/2022,EPI_ISL_12086002,21L (Omicron),2.420,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218355/2022,EPI_ISL_12086003,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218356/2022,EPI_ISL_12086004,21L (Omicron),4.759,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218358/2022,EPI_ISL_12086005,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218360/2022,EPI_ISL_12086006,21L (Omicron),5.054,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218363/2022,EPI_ISL_12086007,21L (Omicron),144.712,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218373/2022,EPI_ISL_12086008,21L (Omicron),56.863,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218388/2022,EPI_ISL_12086009,21L (Omicron),34.201,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218583/2022,EPI_ISL_12086010,21L (Omicron),3.402,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218585/2022,EPI_ISL_12086011,21L (Omicron),2.620,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218600/2022,EPI_ISL_12086012,21L (Omicron),34.288,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218642/2022,EPI_ISL_12086013,21L (Omicron),84.028,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218646/2022,EPI_ISL_12086014,21L (Omicron),23.757,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218649/2022,EPI_ISL_12086015,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218652/2022,EPI_ISL_12086016,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218757/2022,EPI_ISL_12086017,21L (Omicron),79.672,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218770/2022,EPI_ISL_12086018,21L (Omicron),5.038,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218783/2022,EPI_ISL_12086019,21L (Omicron),4.759,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218805/2022,EPI_ISL_12086020,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218824/2022,EPI_ISL_12086021,21K (Omicron),6.650,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC218847/2022,EPI_ISL_12086022,21L (Omicron),178.173,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219022/2022,EPI_ISL_12086023,21L (Omicron),5.324,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219023/2022,EPI_ISL_12086024,21L (Omicron),5.038,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219051/2022,EPI_ISL_12086025,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219053/2022,EPI_ISL_12086026,21L (Omicron),34.201,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219059/2022,EPI_ISL_12086027,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219094/2022,EPI_ISL_12086028,21L (Omicron),13.282,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219129/2022,EPI_ISL_12086029,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219133/2022,EPI_ISL_12086030,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219137/2022,EPI_ISL_12086031,21L (Omicron),4.775,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219182/2022,EPI_ISL_12086032,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219195/2022,EPI_ISL_12086033,21L (Omicron),34.548,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219269/2022,EPI_ISL_12086034,21L (Omicron),34.201,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219273/2022,EPI_ISL_12086035,21L (Omicron),2.632,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/C19UMB1446/2022,EPI_ISL_12099530,21L (Omicron),0.000,good,Hospital Sultanah Aminah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1827/2022,EPI_ISL_12099531,21L (Omicron),0.000,good,MKA Johor Bahru,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1828/2022,EPI_ISL_12099532,21L (Omicron),1.563,good,MKA Johor Bahru,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1831/2022,EPI_ISL_12099533,21L (Omicron),0.000,good,MKA Johor Bahru,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1844/2022,EPI_ISL_12099534,21L (Omicron),0.000,good,MKA Johor Bahru,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1833/2022,EPI_ISL_12099535,21L (Omicron),0.000,good,Pejabat Kesihatan Daerah Kulai,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1835/2022,EPI_ISL_12099536,21L (Omicron),0.000,good,Pejabat Kesihatan Daerah Kulai,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1836/2022,EPI_ISL_12099537,21L (Omicron),0.000,good,Pejabat Kesihatan Daerah Kulai,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1838/2022,EPI_ISL_12099538,21L (Omicron),0.000,good,Pejabat Kesihatan Daerah Muar,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1842/2022,EPI_ISL_12099539,21L (Omicron),4.340,good,Pejabat Kesihatan Daerah Muar,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1829/2022,EPI_ISL_12099540,21K (Omicron),0.000,good,Pejabat Kesihatan Daerah Seremban,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1030/2021,EPI_ISL_12099541,21K (Omicron),44.346,mediocre,Hospital Pakar Sultanah Fatimah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1840/2022,EPI_ISL_12099542,21L (Omicron),0.175,good,Pejabat Kesihatan Daerah Muar,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1843/2022,EPI_ISL_12099543,21K (Omicron),0.048,good,Pejabat Kesihatan Daerah Muar,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1830/2022,EPI_ISL_12099544,21K (Omicron),25.073,good,Pejabat Kesihatan Daerah Seremban,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1845/2022,EPI_ISL_12099545,21L (Omicron),0.109,good,Hospital Sultanah Aminah,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1837/2022,EPI_ISL_12099546,21K (Omicron),0.198,good,Pejabat Kesihatan Daerah Kulai,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1834/2022,EPI_ISL_12099547,21L (Omicron),1.351,good,Pejabat Kesihatan Daerah Kulai,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1832/2022,EPI_ISL_12099548,21L (Omicron),8.169,good,MKA Johor Bahru,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1826/2022,EPI_ISL_12099549,21L (Omicron),2.827,good,MKA Johor Bahru,UMBI-UKM
+hCoV-19/Malaysia/C19UMB1839/2022,EPI_ISL_12099550,21L (Omicron),4.678,good,Pejabat Kesihatan Daerah Muar,UMBI-UKM
+hCoV-19/Malaysia/UNIMAS-HBTU606/2022,EPI_ISL_12099567,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HSIBUML212/2022,EPI_ISL_12099568,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU605/2022,EPI_ISL_12099569,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16626/2022,EPI_ISL_12099570,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1486/2022,EPI_ISL_12099571,21L (Omicron),0.000,good,Hospital Kapit,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU574/2022,EPI_ISL_12099572,21L (Omicron),0.174,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU575/2022,EPI_ISL_12099573,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU576/2022,EPI_ISL_12099574,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU577/2022,EPI_ISL_12099575,21L (Omicron),0.694,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU578/2022,EPI_ISL_12099576,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU579/2022,EPI_ISL_12099577,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU580/2022,EPI_ISL_12099578,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU581/2022,EPI_ISL_12099579,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU582/2022,EPI_ISL_12099580,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU583/2022,EPI_ISL_12099581,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU584/2022,EPI_ISL_12099582,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU585/2022,EPI_ISL_12099583,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU586/2022,EPI_ISL_12099584,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU587/2022,EPI_ISL_12099585,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU588/2022,EPI_ISL_12099586,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU589/2022,EPI_ISL_12099587,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU590/2022,EPI_ISL_12099588,21L (Omicron),0.174,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU591/2022,EPI_ISL_12099589,21L (Omicron),0.174,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU592/2022,EPI_ISL_12099590,21L (Omicron),1.563,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU593/2022,EPI_ISL_12099591,21L (Omicron),0.174,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU594/2022,EPI_ISL_12099592,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU595/2022,EPI_ISL_12099593,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU598/2022,EPI_ISL_12099594,21L (Omicron),0.694,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU611/2022,EPI_ISL_12099595,21L (Omicron),1.563,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU601/2022,EPI_ISL_12099596,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU602/2022,EPI_ISL_12099597,21L (Omicron),2.778,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU603/2022,EPI_ISL_12099598,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU613/2022,EPI_ISL_12099599,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU614/2022,EPI_ISL_12099600,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU615/2022,EPI_ISL_12099601,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU604/2022,EPI_ISL_12099602,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU607/2022,EPI_ISL_12099603,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU608/2022,EPI_ISL_12099604,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU610/2022,EPI_ISL_12099605,21L (Omicron),0.174,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16486/2022,EPI_ISL_12099606,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16487/2022,EPI_ISL_12099607,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16488/2022,EPI_ISL_12099608,21L (Omicron),0.174,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16489/2022,EPI_ISL_12099609,21L (Omicron),0.694,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16493/2022,EPI_ISL_12099610,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16494/2022,EPI_ISL_12099611,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16556/2022,EPI_ISL_12099612,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16558/2022,EPI_ISL_12099613,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16559/2022,EPI_ISL_12099614,21L (Omicron),0.694,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16563/2022,EPI_ISL_12099615,21L (Omicron),0.694,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16564/2022,EPI_ISL_12099616,21L (Omicron),0.694,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16566/2022,EPI_ISL_12099617,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16567/2022,EPI_ISL_12099618,21L (Omicron),6.250,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16568/2022,EPI_ISL_12099619,21L (Omicron),0.694,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16192/2022,EPI_ISL_12099620,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16570/2022,EPI_ISL_12099621,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16571/2022,EPI_ISL_12099622,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16618/2022,EPI_ISL_12099623,21L (Omicron),1.563,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16619/2022,EPI_ISL_12099624,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16621/2022,EPI_ISL_12099625,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16627/2022,EPI_ISL_12099626,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16628/2022,EPI_ISL_12099627,21L (Omicron),2.778,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16629/2022,EPI_ISL_12099628,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16635/2022,EPI_ISL_12099629,21L (Omicron),0.694,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16639/2022,EPI_ISL_12099630,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16640/2022,EPI_ISL_12099631,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16644/2022,EPI_ISL_12099632,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16645/2022,EPI_ISL_12099633,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-TMCGP2609/2022,EPI_ISL_12099634,21L (Omicron),0.000,good,Gribbles Diagnostic Lab @Timberland Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1475/2022,EPI_ISL_12099635,21L (Omicron),0.000,good,Hospital Kapit,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1476/2022,EPI_ISL_12099636,21L (Omicron),0.000,good,Hospital Kapit,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1477/2022,EPI_ISL_12099637,21L (Omicron),0.000,good,Hospital Kapit,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1478/2022,EPI_ISL_12099638,21L (Omicron),0.000,good,Hospital Kapit,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1480/2022,EPI_ISL_12099639,21L (Omicron),0.000,good,Hospital Kapit,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1481/2022,EPI_ISL_12099640,21L (Omicron),0.000,good,Hospital Kapit,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1482/2022,EPI_ISL_12099641,21L (Omicron),0.000,good,Hospital Kapit,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1483/2022,EPI_ISL_12099642,21L (Omicron),0.000,good,Hospital Kapit,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1484/2022,EPI_ISL_12099643,21L (Omicron),0.000,good,Hospital Kapit,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1487/2022,EPI_ISL_12099644,21L (Omicron),0.000,good,Hospital Kapit,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1488/2022,EPI_ISL_12099645,21L (Omicron),0.000,good,Hospital Kapit,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1489/2022,EPI_ISL_12099646,21L (Omicron),1.563,good,Hospital Kapit,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1490/2022,EPI_ISL_12099647,21L (Omicron),0.000,good,Hospital Kapit,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1491/2022,EPI_ISL_12099648,21L (Omicron),0.000,good,Hospital Kapit,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1492/2022,EPI_ISL_12099649,21L (Omicron),0.000,good,Hospital Kapit,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1493/2022,EPI_ISL_12099650,21L (Omicron),0.694,good,Hospital Kapit,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1494/2022,EPI_ISL_12099651,21L (Omicron),0.000,good,Hospital Kapit,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1506/2022,EPI_ISL_12099652,21L (Omicron),0.000,good,Hospital Miri,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1507/2022,EPI_ISL_12099653,21L (Omicron),0.174,good,Hospital Miri,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1508/2022,EPI_ISL_12099654,21L (Omicron),0.000,good,Hospital Miri,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1509/2022,EPI_ISL_12099655,21L (Omicron),0.000,good,Hospital Miri,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1495/2022,EPI_ISL_12099656,21L (Omicron),0.000,good,Hospital Miri,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1496/2022,EPI_ISL_12099657,21L (Omicron),0.000,good,Hospital Miri,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1497/2022,EPI_ISL_12099658,21L (Omicron),0.000,good,Hospital Miri,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1498/2022,EPI_ISL_12099659,21L (Omicron),0.000,good,Hospital Miri,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1499/2022,EPI_ISL_12099660,21L (Omicron),0.694,good,Hospital Miri,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1500/2022,EPI_ISL_12099661,21L (Omicron),0.694,good,Hospital Miri,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1501/2022,EPI_ISL_12099662,21L (Omicron),0.000,good,Hospital Miri,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1502/2022,EPI_ISL_12099663,21L (Omicron),0.000,good,Hospital Miri,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1503/2022,EPI_ISL_12099664,21L (Omicron),0.000,good,Hospital Miri,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1504/2022,EPI_ISL_12099665,21L (Omicron),0.694,good,Hospital Miri,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1505/2022,EPI_ISL_12099666,21L (Omicron),0.694,good,Hospital Miri,UNIMAS
+hCoV-19/Malaysia/UNIMAS-NMSC729/2022,EPI_ISL_12099667,21L (Omicron),0.000,good,Normah Medical Specialist Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-NMSC829/2022,EPI_ISL_12099668,21L (Omicron),0.000,good,Normah Medical Specialist Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16675/2022,EPI_ISL_12099669,21L (Omicron),0.000,good,Rejang Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16679/2022,EPI_ISL_12099670,21L (Omicron),0.000,good,Rejang Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16686/2022,EPI_ISL_12099671,21L (Omicron),0.000,good,Rejang Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16689/2022,EPI_ISL_12099672,21L (Omicron),0.694,good,Rejang Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16691/2022,EPI_ISL_12099673,21L (Omicron),0.000,good,Rejang Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16692/2022,EPI_ISL_12099674,21L (Omicron),6.250,good,Rejang Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16693/2022,EPI_ISL_12099675,21L (Omicron),0.000,good,Rejang Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16699/2022,EPI_ISL_12099676,21L (Omicron),0.000,good,Rejang Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16732/2022,EPI_ISL_12099677,21L (Omicron),0.000,good,Rejang Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16734/2022,EPI_ISL_12099678,21L (Omicron),0.000,good,Rejang Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16735/2022,EPI_ISL_12099679,21L (Omicron),0.000,good,Rejang Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1510/2022,EPI_ISL_12099680,21L (Omicron),0.000,good,Sarawak General Hospital,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1511/2022,EPI_ISL_12099681,21L (Omicron),0.174,good,Sarawak General Hospital,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1512/2022,EPI_ISL_12099682,21L (Omicron),0.694,good,Sarawak General Hospital,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1384/2022,EPI_ISL_12099683,21L (Omicron),0.000,good,Sarawak General Hospital,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1455/2022,EPI_ISL_12099684,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1456/2022,EPI_ISL_12099685,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1457/2022,EPI_ISL_12099686,21L (Omicron),0.174,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1459/2022,EPI_ISL_12099687,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1460/2022,EPI_ISL_12099688,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1461/2022,EPI_ISL_12099689,21L (Omicron),0.694,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1462/2022,EPI_ISL_12099690,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1463/2022,EPI_ISL_12099691,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1464/2022,EPI_ISL_12099692,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1465/2022,EPI_ISL_12099693,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1466/2022,EPI_ISL_12099694,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1467/2022,EPI_ISL_12099695,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1468/2022,EPI_ISL_12099696,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1469/2022,EPI_ISL_12099697,21L (Omicron),0.694,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1470/2022,EPI_ISL_12099698,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1471/2022,EPI_ISL_12099699,21L (Omicron),0.694,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1472/2022,EPI_ISL_12099700,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1473/2022,EPI_ISL_12099701,21L (Omicron),0.174,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1474/2022,EPI_ISL_12099702,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HSIBUML201/2022,EPI_ISL_12099703,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HSIBUML203/2022,EPI_ISL_12099704,21L (Omicron),0.694,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HSIBUML204/2022,EPI_ISL_12099705,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HSIBUML205/2022,EPI_ISL_12099706,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HSIBUML206/2022,EPI_ISL_12099707,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HSIBUML207/2022,EPI_ISL_12099708,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HSIBUML208/2022,EPI_ISL_12099709,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HSIBUML209/2022,EPI_ISL_12099710,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HSIBUML210/2022,EPI_ISL_12099711,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HSIBUML211/2022,EPI_ISL_12099712,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HSIBUML213/2022,EPI_ISL_12099713,21L (Omicron),0.694,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HSIBUML214/2022,EPI_ISL_12099714,21L (Omicron),1.563,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HSIBUML216/2022,EPI_ISL_12099715,21L (Omicron),0.694,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HSIBUML217/2022,EPI_ISL_12099716,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HSIBUML218/2022,EPI_ISL_12099717,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HSIBUML219/2022,EPI_ISL_12099718,21L (Omicron),0.000,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HSIBUML220/2022,EPI_ISL_12099719,21L (Omicron),2.778,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU596/2022,EPI_ISL_12099720,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU600/2022,EPI_ISL_12099721,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1485/2022,EPI_ISL_12099722,21L (Omicron),8.507,good,Hospital Kapit,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16685/2022,EPI_ISL_12099723,21L (Omicron),17.361,good,Rejang Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16716/2022,EPI_ISL_12099724,21L (Omicron),17.361,good,Rejang Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU612/2022,EPI_ISL_12099725,21L (Omicron),0.000,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16638/2022,EPI_ISL_12099726,21L (Omicron),0.000,good,Bintulu Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16480/2022,EPI_ISL_12099727,21K (Omicron),2.778,good,Borneo Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16470/2022,EPI_ISL_12099728,21K (Omicron),0.000,good,Borneo Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16459/2022,EPI_ISL_12099729,21K (Omicron),0.000,good,Borneo Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16462/2022,EPI_ISL_12099730,21K (Omicron),0.000,good,Borneo Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16463/2022,EPI_ISL_12099731,21K (Omicron),0.000,good,Borneo Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16465/2022,EPI_ISL_12099732,21K (Omicron),0.000,good,Borneo Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16466/2022,EPI_ISL_12099733,21K (Omicron),0.000,good,Borneo Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16467/2022,EPI_ISL_12099734,21K (Omicron),0.000,good,Borneo Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16468/2022,EPI_ISL_12099735,21K (Omicron),0.000,good,Borneo Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16469/2022,EPI_ISL_12099736,21K (Omicron),0.000,good,Borneo Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16471/2022,EPI_ISL_12099737,21K (Omicron),0.000,good,Borneo Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16473/2022,EPI_ISL_12099738,21K (Omicron),0.000,good,Borneo Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16474/2022,EPI_ISL_12099739,21K (Omicron),0.000,good,Borneo Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16478/2022,EPI_ISL_12099740,21K (Omicron),0.000,good,Borneo Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16479/2022,EPI_ISL_12099741,21K (Omicron),0.000,good,Borneo Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16481/2022,EPI_ISL_12099742,21K (Omicron),0.000,good,Borneo Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16482/2022,EPI_ISL_12099743,21K (Omicron),0.000,good,Borneo Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16484/2022,EPI_ISL_12099744,21K (Omicron),0.000,good,Borneo Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16485/2022,EPI_ISL_12099745,21K (Omicron),0.000,good,Borneo Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-NMSC982/2022,EPI_ISL_12099746,21K (Omicron),0.000,good,Normah Medical Specialist Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-GHML1383/2022,EPI_ISL_12099747,21K (Omicron),0.000,good,Sarawak General Hospital,UNIMAS
+hCoV-19/Malaysia/UNIMAS-B16710/2022,EPI_ISL_12099748,21L (Omicron),2.086,good,Rejang Medical Centre,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HBTU597/2022,EPI_ISL_12099749,21L (Omicron),13.745,good,Hospital Bintulu,UNIMAS
+hCoV-19/Malaysia/UNIMAS-HSIBUML202/2022,EPI_ISL_12099750,21L (Omicron),13.745,good,Hospital Sibu,UNIMAS
+hCoV-19/Malaysia/MKAK_22_69735/2022,EPI_ISL_12099751,21L (Omicron),0.000,good,MKAK,MKAK
+hCoV-19/Malaysia/MKAK_22_69802/2022,EPI_ISL_12099752,21L (Omicron),0.000,good,MKAK,MKAK
+hCoV-19/Malaysia/MKAK_22_69739/2022,EPI_ISL_12099753,21L (Omicron),0.000,good,MKAK,MKAK
+hCoV-19/Malaysia/MKAK_22_69815/2022,EPI_ISL_12099754,21L (Omicron),0.000,good,MKAK,MKAK
+hCoV-19/Malaysia/MKAK_22_69793/2022,EPI_ISL_12099755,21L (Omicron),0.000,good,MKAK,MKAK
+hCoV-19/Malaysia/MKAK_22_74271/2022,EPI_ISL_12099756,21L (Omicron),0.000,good,MKAK,MKAK
+hCoV-19/Malaysia/MKAK_22_75887/2022,EPI_ISL_12099757,21L (Omicron),0.174,good,MKAK,MKAK
+hCoV-19/Malaysia/MKAK_22_75894/2022,EPI_ISL_12099758,21L (Omicron),2.778,good,MKAK,MKAK
+hCoV-19/Malaysia/MKAK_22_75896/2022,EPI_ISL_12099759,21L (Omicron),0.000,good,MKAK,MKAK
+hCoV-19/Malaysia/MKAK_22_75899/2022,EPI_ISL_12099760,21L (Omicron),0.174,good,MKAK,MKAK
+hCoV-19/Malaysia/MKAK_22_75901/2022,EPI_ISL_12099761,21L (Omicron),0.000,good,MKAK,MKAK
+hCoV-19/Malaysia/MKAK_22_69790/2022,EPI_ISL_12099762,21L (Omicron),0.000,good,MKAK,MKAK
+hCoV-19/Malaysia/MKAK_22_69292/2022,EPI_ISL_12099763,21L (Omicron),0.000,good,MKAK,MKAK
+hCoV-19/Malaysia/MKAK_22_72766/2022,EPI_ISL_12099764,21L (Omicron),0.694,good,MKAK,MKAK
+hCoV-19/Malaysia/IMR_WC224876/2022,EPI_ISL_12101243,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224878/2022,EPI_ISL_12101244,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224881/2022,EPI_ISL_12101245,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224884/2022,EPI_ISL_12101246,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224885/2022,EPI_ISL_12101247,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224891/2022,EPI_ISL_12101248,21L (Omicron),18.682,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224892/2022,EPI_ISL_12101249,21L (Omicron),4.165,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224893/2022,EPI_ISL_12101250,21L (Omicron),5.831,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224903/2022,EPI_ISL_12101251,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224907/2022,EPI_ISL_12101252,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224908/2022,EPI_ISL_12101253,21L (Omicron),0.288,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224911/2022,EPI_ISL_12101254,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224913/2022,EPI_ISL_12101255,21K (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224924/2022,EPI_ISL_12101256,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224927/2022,EPI_ISL_12101257,21L (Omicron),5.410,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224931/2022,EPI_ISL_12101258,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222244/2022,EPI_ISL_12101259,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222248/2022,EPI_ISL_12101260,21L (Omicron),11.111,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222265/2022,EPI_ISL_12101261,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222288/2022,EPI_ISL_12101262,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222300/2022,EPI_ISL_12101263,21L (Omicron),0.300,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222301/2022,EPI_ISL_12101264,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222320/2022,EPI_ISL_12101265,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222333/2022,EPI_ISL_12101266,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222371/2022,EPI_ISL_12101267,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222378/2022,EPI_ISL_12101268,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222454/2022,EPI_ISL_12101269,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222506/2022,EPI_ISL_12101270,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222515/2022,EPI_ISL_12101271,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222517/2022,EPI_ISL_12101272,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222518/2022,EPI_ISL_12101273,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222531/2022,EPI_ISL_12101274,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222532/2022,EPI_ISL_12101275,21L (Omicron),44.642,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222534/2022,EPI_ISL_12101276,21L (Omicron),120.349,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222540/2022,EPI_ISL_12101277,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222542/2022,EPI_ISL_12101278,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222543/2022,EPI_ISL_12101279,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222554/2022,EPI_ISL_12101280,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222619/2022,EPI_ISL_12101281,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222636/2022,EPI_ISL_12101282,21L (Omicron),1.908,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222647/2022,EPI_ISL_12101283,21L (Omicron),3.030,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222650/2022,EPI_ISL_12101284,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222651/2022,EPI_ISL_12101285,21L (Omicron),8.507,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222653/2022,EPI_ISL_12101286,21L (Omicron),34.889,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222655/2022,EPI_ISL_12101287,21L (Omicron),0.738,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222657/2022,EPI_ISL_12101288,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222762/2022,EPI_ISL_12101289,21L (Omicron),34.201,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222836/2022,EPI_ISL_12101290,21K (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222877/2022,EPI_ISL_12101291,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222883/2022,EPI_ISL_12101292,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222887/2022,EPI_ISL_12101293,21L (Omicron),6.760,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222895/2022,EPI_ISL_12101294,21L (Omicron),5.939,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222903/2022,EPI_ISL_12101295,21L (Omicron),11.013,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222956/2022,EPI_ISL_12101296,21L (Omicron),0.342,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223060/2022,EPI_ISL_12101297,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223104/2022,EPI_ISL_12101298,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223135/2022,EPI_ISL_12101299,21L (Omicron),2.976,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223137/2022,EPI_ISL_12101300,21L (Omicron),3.043,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223147/2022,EPI_ISL_12101301,21L (Omicron),4.727,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223159/2022,EPI_ISL_12101302,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223225/2022,EPI_ISL_12101303,21L (Omicron),4.711,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223255/2022,EPI_ISL_12101304,21L (Omicron),21.916,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223282/2022,EPI_ISL_12101305,21L (Omicron),4.256,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223283/2022,EPI_ISL_12101306,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223364/2022,EPI_ISL_12101307,21L (Omicron),2.239,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223368/2022,EPI_ISL_12101308,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223398/2022,EPI_ISL_12101309,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223136/2022,EPI_ISL_12101310,21L (Omicron),21.743,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223429/2022,EPI_ISL_12101311,21L (Omicron),0.019,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223436/2022,EPI_ISL_12101312,21L (Omicron),34.505,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223471/2022,EPI_ISL_12101313,21L (Omicron),0.051,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223536/2022,EPI_ISL_12101314,21L (Omicron),0.978,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223538/2022,EPI_ISL_12101315,21L (Omicron),21.571,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223569/2022,EPI_ISL_12101316,21L (Omicron),0.063,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223575/2022,EPI_ISL_12101317,21L (Omicron),12.907,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223576/2022,EPI_ISL_12101318,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223586/2022,EPI_ISL_12101319,21L (Omicron),6.974,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223685/2022,EPI_ISL_12101320,21L (Omicron),9.841,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223727/2022,EPI_ISL_12101321,21L (Omicron),5.273,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223728/2022,EPI_ISL_12101322,21L (Omicron),0.063,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223799/2022,EPI_ISL_12101323,21L (Omicron),5.549,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223843/2022,EPI_ISL_12101324,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223844/2022,EPI_ISL_12101325,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223854/2022,EPI_ISL_12101326,21L (Omicron),4.759,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224072/2022,EPI_ISL_12101327,21L (Omicron),34.723,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224075/2022,EPI_ISL_12101328,21L (Omicron),7.634,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224080/2022,EPI_ISL_12101329,21L (Omicron),4.059,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224133/2022,EPI_ISL_12101330,21L (Omicron),27.738,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224173/2022,EPI_ISL_12101331,21L (Omicron),19.687,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224189/2022,EPI_ISL_12101332,21L (Omicron),20.084,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224268/2022,EPI_ISL_12101333,21K (Omicron),1.310,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224272/2022,EPI_ISL_12101334,recombinant,4.835,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224315/2022,EPI_ISL_12101335,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224333/2022,EPI_ISL_12101336,21L (Omicron),26.542,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224361/2022,EPI_ISL_12101337,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224394/2022,EPI_ISL_12101338,21L (Omicron),33.726,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223534/2022,EPI_ISL_12101339,21L (Omicron),4.759,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223899/2022,EPI_ISL_12101340,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223901/2022,EPI_ISL_12101341,21L (Omicron),0.174,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223907/2022,EPI_ISL_12101342,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223913/2022,EPI_ISL_12101343,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223917/2022,EPI_ISL_12101344,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223982/2022,EPI_ISL_12101345,21L (Omicron),0.679,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224051/2022,EPI_ISL_12101346,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224105/2022,EPI_ISL_12101347,21L (Omicron),34.051,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224185/2022,EPI_ISL_12101348,21L (Omicron),0.277,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224216/2022,EPI_ISL_12101349,21L (Omicron),0.802,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224231/2022,EPI_ISL_12101350,21L (Omicron),4.791,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224242/2022,EPI_ISL_12101351,21L (Omicron),4.791,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224248/2022,EPI_ISL_12101352,21K (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224250/2022,EPI_ISL_12101353,21L (Omicron),127.191,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224253/2022,EPI_ISL_12101354,21L (Omicron),5.104,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224316/2022,EPI_ISL_12101355,21L (Omicron),0.628,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224320/2022,EPI_ISL_12101356,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223441/2022,EPI_ISL_12101357,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223474/2022,EPI_ISL_12101358,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223509/2022,EPI_ISL_12101359,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223511/2022,EPI_ISL_12101360,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223518/2022,EPI_ISL_12101361,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223548/2022,EPI_ISL_12101362,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223554/2022,EPI_ISL_12101363,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223570/2022,EPI_ISL_12101364,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223582/2022,EPI_ISL_12101365,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223612/2022,EPI_ISL_12101366,21L (Omicron),3.681,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223658/2022,EPI_ISL_12101367,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223688/2022,EPI_ISL_12101368,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223804/2022,EPI_ISL_12101369,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223812/2022,EPI_ISL_12101370,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223814/2022,EPI_ISL_12101371,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223816/2022,EPI_ISL_12101372,21L (Omicron),4.340,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223839/2022,EPI_ISL_12101373,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223985/2022,EPI_ISL_12101374,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223986/2022,EPI_ISL_12101375,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224067/2022,EPI_ISL_12101376,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224068/2022,EPI_ISL_12101377,21L (Omicron),0.174,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224084/2022,EPI_ISL_12101378,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224108/2022,EPI_ISL_12101379,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224176/2022,EPI_ISL_12101380,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224184/2022,EPI_ISL_12101381,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224186/2022,EPI_ISL_12101382,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224212/2022,EPI_ISL_12101383,21K (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224213/2022,EPI_ISL_12101384,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224252/2022,EPI_ISL_12101385,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224255/2022,EPI_ISL_12101386,21L (Omicron),126.563,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224397/2022,EPI_ISL_12101387,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224399/2022,EPI_ISL_12101388,21L (Omicron),0.694,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/TIDREC-NSC1051/2022,EPI_ISL_12135870,21J (Delta),25.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1057/2022,EPI_ISL_12135871,21K (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1165/2022,EPI_ISL_12135872,21K (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1166/2022,EPI_ISL_12135873,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1167/2022,EPI_ISL_12135874,21K (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1168/2022,EPI_ISL_12135875,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1169/2022,EPI_ISL_12135876,21K (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1170/2022,EPI_ISL_12135877,21K (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1171/2022,EPI_ISL_12135878,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1172/2022,EPI_ISL_12135879,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1173/2022,EPI_ISL_12135880,21K (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1174/2022,EPI_ISL_12135881,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1175/2022,EPI_ISL_12135882,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1176/2022,EPI_ISL_12135883,21K (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1177/2022,EPI_ISL_12135884,21K (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1178/2022,EPI_ISL_12135885,21K (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1179/2022,EPI_ISL_12135886,21K (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1180/2022,EPI_ISL_12135887,21K (Omicron),56.250,mediocre,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1181/2022,EPI_ISL_12135888,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1183/2022,EPI_ISL_12135889,21L (Omicron),0.000,good,MKA Kota Bharu,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1184/2022,EPI_ISL_12135890,21L (Omicron),0.174,good,MKA Kota Bharu,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1186/2022,EPI_ISL_12135891,21K (Omicron),0.000,good,MKA Kota Bharu,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1187/2022,EPI_ISL_12135892,21K (Omicron),0.000,good,MKA Kota Bharu,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1188/2022,EPI_ISL_12135893,21K (Omicron),0.000,good,MKA Kota Bharu,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1189/2022,EPI_ISL_12135894,21K (Omicron),0.174,good,MKA Kota Bharu,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1190/2022,EPI_ISL_12135895,21K (Omicron),0.000,good,MKA Kota Bharu,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1191/2022,EPI_ISL_12135896,21J (Delta),21.007,good,MKA Kota Bharu,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1192/2022,EPI_ISL_12135897,21K (Omicron),0.000,good,MKA Kota Bharu,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1193/2022,EPI_ISL_12135898,21K (Omicron),0.000,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1194/2022,EPI_ISL_12135899,21J (Delta),8.507,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1195/2022,EPI_ISL_12135900,21L (Omicron),0.000,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1196/2022,EPI_ISL_12135901,21K (Omicron),0.000,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1197/2022,EPI_ISL_12135902,21K (Omicron),0.000,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1198/2022,EPI_ISL_12135903,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1199/2022,EPI_ISL_12135904,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1200/2022,EPI_ISL_12135905,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1201/2022,EPI_ISL_12135906,21K (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1202/2022,EPI_ISL_12135907,21K (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1203/2022,EPI_ISL_12135908,21K (Omicron),2.778,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1204/2022,EPI_ISL_12135909,21K (Omicron),2.778,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1206/2022,EPI_ISL_12135910,21K (Omicron),2.778,good,Hospital Raja Perempuan Zainab II,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1207/2022,EPI_ISL_12135911,21K (Omicron),0.000,good,Hospital Raja Perempuan Zainab II,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1211/2022,EPI_ISL_12135912,21K (Omicron),0.000,good,Hospital Raja Perempuan Zainab II,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1212/2022,EPI_ISL_12135913,21K (Omicron),0.000,good,Hospital Raja Perempuan Zainab II,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1213/2022,EPI_ISL_12135914,21I (Delta),14.063,good,Hospital Raja Perempuan Zainab II,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1214/2022,EPI_ISL_12135915,21K (Omicron),0.000,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1215/2022,EPI_ISL_12135916,21L (Omicron),0.000,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1218/2022,EPI_ISL_12135917,21K (Omicron),2.778,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1219/2022,EPI_ISL_12135918,21K (Omicron),0.174,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1220/2022,EPI_ISL_12135919,21K (Omicron),0.694,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1221/2022,EPI_ISL_12135920,21K (Omicron),1.563,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1222/2022,EPI_ISL_12135921,21K (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1223/2022,EPI_ISL_12135922,21K (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1224/2022,EPI_ISL_12135923,21K (Omicron),0.174,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1226/2022,EPI_ISL_12135924,21K (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1227/2022,EPI_ISL_12135925,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1228/2022,EPI_ISL_12135926,21K (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1230/2022,EPI_ISL_12135927,21K (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1231/2022,EPI_ISL_12135928,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1235/2022,EPI_ISL_12135929,21L (Omicron),0.000,good,Hospital Raja Perempuan Zainab II,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1236/2022,EPI_ISL_12135930,21K (Omicron),0.000,good,Hospital Raja Perempuan Zainab II,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1237/2022,EPI_ISL_12135931,21K (Omicron),0.000,good,Hospital Raja Perempuan Zainab II,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1238/2022,EPI_ISL_12135932,21K (Omicron),8.507,good,Hospital Raja Perempuan Zainab II,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1239/2022,EPI_ISL_12135933,21K (Omicron),0.000,good,Hospital Raja Perempuan Zainab II,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1240/2022,EPI_ISL_12135934,21L (Omicron),14.063,good,Hospital Raja Perempuan Zainab II,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1242/2022,EPI_ISL_12135935,21K (Omicron),1.563,good,Hospital Raja Perempuan Zainab II,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1244/2022,EPI_ISL_12135936,21K (Omicron),1.563,good,Hospital Raja Perempuan Zainab II,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1245/2022,EPI_ISL_12135937,21K (Omicron),1.563,good,Hospital Raja Perempuan Zainab II,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1246/2022,EPI_ISL_12135938,21K (Omicron),1.563,good,Hospital Raja Perempuan Zainab II,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1247/2022,EPI_ISL_12135939,21K (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1248/2022,EPI_ISL_12135940,21K (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1249/2022,EPI_ISL_12135941,21I (Delta),21.402,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1250/2022,EPI_ISL_12135942,21K (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1251/2022,EPI_ISL_12135943,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1252/2022,EPI_ISL_12135944,21K (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1253/2022,EPI_ISL_12135945,21K (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1254/2022,EPI_ISL_12135946,21K (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1255/2022,EPI_ISL_12135947,21K (Omicron),56.250,mediocre,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1256/2022,EPI_ISL_12135948,21K (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1257/2022,EPI_ISL_12135949,21K (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1260/2022,EPI_ISL_12135950,21K (Omicron),56.250,mediocre,Hospital Sultan Abdul Halim,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1261/2022,EPI_ISL_12135951,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1262/2022,EPI_ISL_12135952,21K (Omicron),0.174,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1263/2022,EPI_ISL_12135953,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1264/2022,EPI_ISL_12135954,21K (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1265/2022,EPI_ISL_12135955,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1266/2022,EPI_ISL_12135956,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1267/2022,EPI_ISL_12135957,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1268/2022,EPI_ISL_12135958,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1269/2022,EPI_ISL_12135959,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1270/2022,EPI_ISL_12135960,21K (Omicron),0.000,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1271/2022,EPI_ISL_12135961,21L (Omicron),0.000,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1272/2022,EPI_ISL_12135962,21K (Omicron),0.000,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1273/2022,EPI_ISL_12135963,21L (Omicron),0.000,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1274/2022,EPI_ISL_12135964,21J (Delta),50.174,mediocre,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1275/2022,EPI_ISL_12135965,21L (Omicron),0.000,good,Hospital Tuanku Fauziah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1276/2022,EPI_ISL_12135966,21K (Omicron),0.000,good,Hospital Tuanku Fauziah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1277/2022,EPI_ISL_12135967,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1278/2022,EPI_ISL_12135968,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1279/2022,EPI_ISL_12135969,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1280/2022,EPI_ISL_12135970,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1281/2022,EPI_ISL_12135971,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1282/2022,EPI_ISL_12135972,21K (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1284/2022,EPI_ISL_12135973,21L (Omicron),0.000,good,Pejabat Kesihatan Daerah Kampar,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1285/2022,EPI_ISL_12135974,21L (Omicron),0.000,good,Pejabat Kesihatan Daerah Kampar,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1286/2022,EPI_ISL_12135975,21K (Omicron),0.000,good,Pejabat Kesihatan Daerah Kampar,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1287/2022,EPI_ISL_12135976,21L (Omicron),0.000,good,Pejabat Kesihatan Daerah Kampar,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1289/2022,EPI_ISL_12135977,21L (Omicron),0.000,good,Pejabat Kesihatan Daerah Kampar,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1290/2022,EPI_ISL_12135978,21L (Omicron),0.000,good,Pejabat Kesihatan Daerah Kampar,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1291/2022,EPI_ISL_12135979,21K (Omicron),1.563,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1293/2022,EPI_ISL_12135980,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1294/2022,EPI_ISL_12135981,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1295/2022,EPI_ISL_12135982,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1296/2022,EPI_ISL_12135983,21I (Delta),91.840,mediocre,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1297/2022,EPI_ISL_12135984,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1298/2022,EPI_ISL_12135985,21L (Omicron),0.000,good,Pejabat Kesihatan Daerah Hulu Perak,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1299/2022,EPI_ISL_12135986,21L (Omicron),0.000,good,Pejabat Kesihatan Daerah Hulu Perak,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1300/2022,EPI_ISL_12135987,21K (Omicron),0.000,good,Pejabat Kesihatan Daerah Hulu Perak,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1301/2022,EPI_ISL_12135988,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1302/2022,EPI_ISL_12135989,21K (Omicron),0.000,good,Hospital Kulim,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1303/2022,EPI_ISL_12135990,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1304/2022,EPI_ISL_12135991,21J (Delta),25.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1305/2022,EPI_ISL_12135992,21K (Omicron),0.000,good,Hospital Sultan Abdul Halim,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1306/2022,EPI_ISL_12135993,21L (Omicron),0.000,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1307/2022,EPI_ISL_12135994,21K (Omicron),0.000,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1308/2022,EPI_ISL_12135995,21K (Omicron),2.778,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1309/2022,EPI_ISL_12135996,21L (Omicron),0.000,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1310/2022,EPI_ISL_12135997,21L (Omicron),0.000,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1311/2022,EPI_ISL_12135998,21L (Omicron),0.000,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1312/2022,EPI_ISL_12135999,21L (Omicron),0.000,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1313/2022,EPI_ISL_12136000,21L (Omicron),14.063,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1314/2022,EPI_ISL_12136001,21K (Omicron),0.000,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1315/2022,EPI_ISL_12136002,21L (Omicron),0.000,good,Hospital Sultanah Nur Zahirah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1316/2022,EPI_ISL_12136003,21K (Omicron),0.000,good,Hospital Sultan Abdul Halim,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1317/2022,EPI_ISL_12136004,21K (Omicron),0.000,good,Hospital Sultan Abdul Halim,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1318/2022,EPI_ISL_12136005,21K (Omicron),0.000,good,Hospital Sultan Abdul Halim,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1319/2022,EPI_ISL_12136006,21L (Omicron),0.000,good,Hospital Sultan Abdul Halim,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1320/2022,EPI_ISL_12136007,21L (Omicron),0.000,good,Hospital Sultan Abdul Halim,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1321/2022,EPI_ISL_12136008,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1322/2022,EPI_ISL_12136009,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1323/2022,EPI_ISL_12136010,21K (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1324/2022,EPI_ISL_12136011,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1325/2022,EPI_ISL_12136012,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1326/2022,EPI_ISL_12136013,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1328/2022,EPI_ISL_12136014,21K (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1330/2022,EPI_ISL_12136015,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1331/2022,EPI_ISL_12136016,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1332/2022,EPI_ISL_12136017,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1333/2022,EPI_ISL_12136018,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1334/2022,EPI_ISL_12136019,21K (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1335/2022,EPI_ISL_12136020,21K (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1336/2022,EPI_ISL_12136021,21L (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1337/2022,EPI_ISL_12136022,21K (Omicron),0.000,good,Hospital Sultanah Bahiyah,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1339/2022,EPI_ISL_12136023,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1340/2022,EPI_ISL_12136024,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1341/2022,EPI_ISL_12136025,21L (Omicron),0.174,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1342/2022,EPI_ISL_12136026,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1343/2022,EPI_ISL_12136027,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1344/2022,EPI_ISL_12136028,21L (Omicron),0.000,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC1345/2022,EPI_ISL_12136029,21K (Omicron),1.563,good,Hospital Raja Permaisuri Bainun,TIDREC-UM
+hCoV-19/Malaysia/TIDREC-NSC958/2022,EPI_ISL_12136030,21K (Omicron),0.000,good,Pejabat Kesihatan Daerah Perak Tengah,TIDREC-UM
+hCoV-19/Malaysia/IMR_WC222643/2022,EPI_ISL_12138816,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222870/2022,EPI_ISL_12138817,21L (Omicron),0.342,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222881/2022,EPI_ISL_12138818,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222886/2022,EPI_ISL_12138819,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222888/2022,EPI_ISL_12138820,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222908/2022,EPI_ISL_12138821,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222998/2022,EPI_ISL_12138822,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223030/2022,EPI_ISL_12138823,21L (Omicron),31.813,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223105/2022,EPI_ISL_12138824,21L (Omicron),6.799,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223107/2022,EPI_ISL_12138825,21L (Omicron),7.370,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223133/2022,EPI_ISL_12138826,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223141/2022,EPI_ISL_12138827,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223232/2022,EPI_ISL_12138828,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223236/2022,EPI_ISL_12138829,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223239/2022,EPI_ISL_12138830,21L (Omicron),7.634,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223240/2022,EPI_ISL_12138832,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223243/2022,EPI_ISL_12138833,21L (Omicron),17.984,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223251/2022,EPI_ISL_12138834,21L (Omicron),27.777,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223253/2022,EPI_ISL_12138835,21L (Omicron),0.239,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223361/2022,EPI_ISL_12138836,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223365/2022,EPI_ISL_12138837,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223395/2022,EPI_ISL_12138838,21L (Omicron),0.000,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223218/2022,EPI_ISL_12138839,21L (Omicron),33.383,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223238/2022,EPI_ISL_12138840,21L (Omicron),33.126,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223408/2022,EPI_ISL_12138841,21L (Omicron),726.203,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223464/2022,EPI_ISL_12138842,21L (Omicron),317.764,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223470/2022,EPI_ISL_12138843,21L (Omicron),27.660,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223482/2022,EPI_ISL_12138844,21L (Omicron),400.148,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223484/2022,EPI_ISL_12138845,21L (Omicron),72.124,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223487/2022,EPI_ISL_12138846,21L (Omicron),78.683,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223857/2022,EPI_ISL_12138847,21L (Omicron),119.943,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223897/2022,EPI_ISL_12138848,21L (Omicron),126.688,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223951/2022,EPI_ISL_12138849,21L (Omicron),125.946,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224039/2022,EPI_ISL_12138850,21L (Omicron),161.889,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224177/2022,EPI_ISL_12138851,21L (Omicron),38.808,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224256/2022,EPI_ISL_12138852,21L (Omicron),94.810,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224332/2022,EPI_ISL_12138853,21L (Omicron),133.018,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223910/2022,EPI_ISL_12141450,21L (Omicron),92.089,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224074/2022,EPI_ISL_12141451,21L (Omicron),349.967,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/C19UMB974/2021,EPI_ISL_12097308,21K (Omicron),0.208,good,Pejabat Kesihatan Daerah Kluang,UMBI-UKM
+hCoV-19/Malaysia/IMR_WC143070/2022,EPI_ISL_12097311,21K (Omicron),56.250,mediocre,Klinik Kesihatan Jenjarom,IMR
+hCoV-19/Malaysia/IMR_WC114256/2022,EPI_ISL_12097411,21L (Omicron),36.894,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC136948/2022,EPI_ISL_12097412,21K (Omicron),56.250,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC136954/2022,EPI_ISL_12097413,21L (Omicron),60.262,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC137061/2022,EPI_ISL_12097414,21K (Omicron),56.250,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC138731/2022,EPI_ISL_12097415,21M (Omicron),269.444,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC102445/2022,EPI_ISL_12097416,21K (Omicron),56.250,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC112377/2022,EPI_ISL_12097417,21K (Omicron),56.250,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC137562/2022,EPI_ISL_12097418,21K (Omicron),56.250,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC100246/2022,EPI_ISL_12097419,21K (Omicron),56.250,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC136922/2022,EPI_ISL_12097420,21K (Omicron),56.250,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC91997/2022,EPI_ISL_12097421,21K (Omicron),56.250,mediocre,Klinik Kesihatan Tanjung Sepat,IMR
+hCoV-19/Malaysia/IMR_WC95487/2022,EPI_ISL_12097422,21K (Omicron),62.262,mediocre,Klinik Kesihatan Kampung Bandar,IMR
+hCoV-19/Malaysia/IMR_WC97264/2022,EPI_ISL_12097423,21K (Omicron),56.250,mediocre,Klinik Kesihatan Bukit Changgang,IMR
+hCoV-19/Malaysia/IMR_WC99271/2022,EPI_ISL_12097424,21K (Omicron),56.250,mediocre,Klinik Kesihatan Jenjarom,IMR
+hCoV-19/Malaysia/IMR_WC100965/2022,EPI_ISL_12097425,21K (Omicron),56.250,mediocre,Klinik Kesihatan Bukit Changgang,IMR
+hCoV-19/Malaysia/IMR_WC105932/2022,EPI_ISL_12097426,21K (Omicron),56.250,mediocre,Pejabat Kesihatan Putrajaya,IMR
+hCoV-19/Malaysia/IMR_WC105939/2022,EPI_ISL_12097427,21K (Omicron),56.250,mediocre,Pejabat Kesihatan Daerah Cheras,IMR
+hCoV-19/Malaysia/IMR_WC113396/2022,EPI_ISL_12097428,21K (Omicron),159.783,bad,Pejabat Kesihatan Putrajaya,IMR
+hCoV-19/Malaysia/IMR_CV03675/2022,EPI_ISL_12097429,21K (Omicron),56.994,mediocre,Hospital Tawau,IMR
+hCoV-19/Malaysia/IMR_CV03676/2022,EPI_ISL_12097430,21K (Omicron),56.250,mediocre,Hospital Queen Elizabeth,IMR
+hCoV-19/Malaysia/IMR_CV03686/2022,EPI_ISL_12097431,21K (Omicron),56.250,mediocre,Hospital Queen Elizabeth,IMR
+hCoV-19/Malaysia/IMR_CV03690/2022,EPI_ISL_12097432,21K (Omicron),56.250,mediocre,Hospital Queen Elizabeth,IMR
+hCoV-19/Malaysia/IMR_CV03710/2022,EPI_ISL_12097433,21K (Omicron),56.268,mediocre,Hospital Duchess of Kent,IMR
+hCoV-19/Malaysia/IMR_CV03712/2022,EPI_ISL_12097434,21K (Omicron),56.250,mediocre,Hospital Duchess of Kent,IMR
+hCoV-19/Malaysia/C19UMB1454/2022,EPI_ISL_12097435,21L (Omicron),0.000,good,Hospital Enche' Besar Hajjah Khalsom,UMBI-UKM
+hCoV-19/Malaysia/IMR_WC222267/2022,EPI_ISL_12134339,21L (Omicron),56.270,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222268/2022,EPI_ISL_12134340,21L (Omicron),56.250,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222621/2022,EPI_ISL_12134341,21L (Omicron),56.250,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222656/2022,EPI_ISL_12134342,21L (Omicron),56.250,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224218/2022,EPI_ISL_12134343,21L (Omicron),56.250,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219294/2022,EPI_ISL_12148233,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219298/2022,EPI_ISL_12148234,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219300/2022,EPI_ISL_12148235,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219336/2022,EPI_ISL_12148236,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219337/2022,EPI_ISL_12148237,21K (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219340/2022,EPI_ISL_12148238,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219341/2022,EPI_ISL_12148239,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC219347/2022,EPI_ISL_12148240,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC220628/2022,EPI_ISL_12148241,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC220631/2022,EPI_ISL_12148242,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC220633/2022,EPI_ISL_12148243,21L (Omicron),41.149849,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC220681/2022,EPI_ISL_12148244,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC220979/2022,EPI_ISL_12148245,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC220980/2022,EPI_ISL_12148246,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC220983/2022,EPI_ISL_12148247,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC220984/2022,EPI_ISL_12148248,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC220989/2022,EPI_ISL_12148249,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC220997/2022,EPI_ISL_12148250,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221000/2022,EPI_ISL_12148251,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221024/2022,EPI_ISL_12148252,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221025/2022,EPI_ISL_12148253,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221027/2022,EPI_ISL_12148254,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221137/2022,EPI_ISL_12148255,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221142/2022,EPI_ISL_12148256,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221145/2022,EPI_ISL_12148257,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221163/2022,EPI_ISL_12148258,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221179/2022,EPI_ISL_12148259,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221198/2022,EPI_ISL_12148260,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221209/2022,EPI_ISL_12148261,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221210/2022,EPI_ISL_12148262,21L (Omicron),4.340278,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221212/2022,EPI_ISL_12148263,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221215/2022,EPI_ISL_12148264,21L (Omicron),0.228272,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221253/2022,EPI_ISL_12148265,21L (Omicron),0.292401,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221261/2022,EPI_ISL_12148266,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221269/2022,EPI_ISL_12148267,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221298/2022,EPI_ISL_12148268,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221329/2022,EPI_ISL_12148269,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221334/2022,EPI_ISL_12148270,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221338/2022,EPI_ISL_12148271,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221348/2022,EPI_ISL_12148272,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221352/2022,EPI_ISL_12148273,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221358/2022,EPI_ISL_12148274,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221362/2022,EPI_ISL_12148275,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221363/2022,EPI_ISL_12148276,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221368/2022,EPI_ISL_12148277,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221380/2022,EPI_ISL_12148278,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221403/2022,EPI_ISL_12148279,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221415/2022,EPI_ISL_12148280,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221447/2022,EPI_ISL_12148281,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221478/2022,EPI_ISL_12148282,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221484/2022,EPI_ISL_12148283,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221498/2022,EPI_ISL_12148284,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221508/2022,EPI_ISL_12148285,21L (Omicron),3.004444,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221511/2022,EPI_ISL_12148286,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221554/2022,EPI_ISL_12148287,21L (Omicron),0.06915,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221556/2022,EPI_ISL_12148288,21L (Omicron),14.0625,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221557/2022,EPI_ISL_12148289,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221558/2022,EPI_ISL_12148290,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221561/2022,EPI_ISL_12148291,21L (Omicron),0.003086,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221565/2022,EPI_ISL_12148292,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221566/2022,EPI_ISL_12148293,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221567/2022,EPI_ISL_12148294,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221568/2022,EPI_ISL_12148295,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221573/2022,EPI_ISL_12148296,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221581/2022,EPI_ISL_12148297,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221589/2022,EPI_ISL_12148298,21L (Omicron),0.694444,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221625/2022,EPI_ISL_12148299,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221627/2022,EPI_ISL_12148300,21L (Omicron),0.09679,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221639/2022,EPI_ISL_12148301,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221642/2022,EPI_ISL_12148302,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221643/2022,EPI_ISL_12148303,21K (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221685/2022,EPI_ISL_12148304,21L (Omicron),0.715309,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221694/2022,EPI_ISL_12148305,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221695/2022,EPI_ISL_12148306,21L (Omicron),1,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221701/2022,EPI_ISL_12148307,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221715/2022,EPI_ISL_12148308,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221722/2022,EPI_ISL_12148309,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221753/2022,EPI_ISL_12148310,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221755/2022,EPI_ISL_12148311,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221756/2022,EPI_ISL_12148312,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221759/2022,EPI_ISL_12148313,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221832/2022,EPI_ISL_12148314,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221876/2022,EPI_ISL_12148315,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221878/2022,EPI_ISL_12148316,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221879/2022,EPI_ISL_12148317,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221880/2022,EPI_ISL_12148318,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221882/2022,EPI_ISL_12148319,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221909/2022,EPI_ISL_12148320,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221911/2022,EPI_ISL_12148321,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221921/2022,EPI_ISL_12148322,21K (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221932/2022,EPI_ISL_12148323,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221933/2022,EPI_ISL_12148324,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221943/2022,EPI_ISL_12148325,21K (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221945/2022,EPI_ISL_12148326,21L (Omicron),11.111111,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221946/2022,EPI_ISL_12148327,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221947/2022,EPI_ISL_12148328,21L (Omicron),2.196327,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221949/2022,EPI_ISL_12148329,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221950/2022,EPI_ISL_12148330,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221963/2022,EPI_ISL_12148331,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221964/2022,EPI_ISL_12148332,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221972/2022,EPI_ISL_12148333,21K (Omicron),2.777778,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221988/2022,EPI_ISL_12148334,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221991/2022,EPI_ISL_12148335,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221992/2022,EPI_ISL_12148336,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222031/2022,EPI_ISL_12148337,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222036/2022,EPI_ISL_12148338,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222039/2022,EPI_ISL_12148339,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222043/2022,EPI_ISL_12148340,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222044/2022,EPI_ISL_12148341,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222046/2022,EPI_ISL_12148342,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222049/2022,EPI_ISL_12148343,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222051/2022,EPI_ISL_12148344,21L (Omicron),99.079753,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222052/2022,EPI_ISL_12148345,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222053/2022,EPI_ISL_12148346,21L (Omicron),0.157051,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222058/2022,EPI_ISL_12148347,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222059/2022,EPI_ISL_12148348,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222065/2022,EPI_ISL_12148349,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222067/2022,EPI_ISL_12148350,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222070/2022,EPI_ISL_12148351,21L (Omicron),2.777778,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222071/2022,EPI_ISL_12148352,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222080/2022,EPI_ISL_12148353,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222081/2022,EPI_ISL_12148354,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222089/2022,EPI_ISL_12148355,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222104/2022,EPI_ISL_12148356,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222105/2022,EPI_ISL_12148357,21L (Omicron),3.985199,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222107/2022,EPI_ISL_12148358,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222109/2022,EPI_ISL_12148359,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222111/2022,EPI_ISL_12148360,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222122/2022,EPI_ISL_12148361,21K (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222127/2022,EPI_ISL_12148362,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222128/2022,EPI_ISL_12148363,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222130/2022,EPI_ISL_12148364,21K (Omicron),2.777778,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222151/2022,EPI_ISL_12148365,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222156/2022,EPI_ISL_12148366,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222158/2022,EPI_ISL_12148367,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222161/2022,EPI_ISL_12148368,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222171/2022,EPI_ISL_12148369,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222175/2022,EPI_ISL_12148370,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222181/2022,EPI_ISL_12148371,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222185/2022,EPI_ISL_12148372,21L (Omicron),1.5625,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222189/2022,EPI_ISL_12148373,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222201/2022,EPI_ISL_12148374,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222202/2022,EPI_ISL_12148375,21L (Omicron),0.956049,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222214/2022,EPI_ISL_12148376,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222217/2022,EPI_ISL_12148377,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222222/2022,EPI_ISL_12148378,21L (Omicron),0.694444,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222223/2022,EPI_ISL_12148379,recombinant,117.361111,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222227/2022,EPI_ISL_12148380,21L (Omicron),11.111111,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222231/2022,EPI_ISL_12148381,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222326/2022,EPI_ISL_12148382,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222716/2022,EPI_ISL_12148383,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223587/2022,EPI_ISL_12148384,21L (Omicron),5.272977,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC223637/2022,EPI_ISL_12148385,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224594/2022,EPI_ISL_12148386,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224601/2022,EPI_ISL_12148387,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224630/2022,EPI_ISL_12148388,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224660/2022,EPI_ISL_12148389,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224666/2022,EPI_ISL_12148390,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224671/2022,EPI_ISL_12148391,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224695/2022,EPI_ISL_12148392,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224721/2022,EPI_ISL_12148393,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224730/2022,EPI_ISL_12148394,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224742/2022,EPI_ISL_12148395,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224745/2022,EPI_ISL_12148396,21L (Omicron),0.217778,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224765/2022,EPI_ISL_12148397,21L (Omicron),0.018779,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224770/2022,EPI_ISL_12148398,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224779/2022,EPI_ISL_12148399,21L (Omicron),0.484829,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224780/2022,EPI_ISL_12148400,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224781/2022,EPI_ISL_12148401,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224784/2022,EPI_ISL_12148402,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224802/2022,EPI_ISL_12148403,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224803/2022,EPI_ISL_12148404,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224818/2022,EPI_ISL_12148405,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224833/2022,EPI_ISL_12148406,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224843/2022,EPI_ISL_12148407,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224849/2022,EPI_ISL_12148408,21L (Omicron),0,good,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221761/2022,EPI_ISL_12150067,21L (Omicron),59.47668,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC221981/2022,EPI_ISL_12150068,21L (Omicron),56.460919,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222072/2022,EPI_ISL_12150069,21L (Omicron),56.25,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222082/2022,EPI_ISL_12150070,21L (Omicron),56.25,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222100/2022,EPI_ISL_12150071,21L (Omicron),56.729684,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222177/2022,EPI_ISL_12150072,21L (Omicron),56.25,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222191/2022,EPI_ISL_12150073,21L (Omicron),56.25,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC222236/2022,EPI_ISL_12150074,21L (Omicron),56.25,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224769/2022,EPI_ISL_12150075,21L (Omicron),57.080123,mediocre,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224111/2022,EPI_ISL_12150620,21L (Omicron),156.25,bad,Pejabat Kesihatan KLIA,IMR
+hCoV-19/Malaysia/IMR_WC224164/2022,EPI_ISL_12150621,21L (Omicron),212.727627,bad,Pejabat Kesihatan KLIA,IMR

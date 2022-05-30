@@ -18472,3 +18472,8 @@ ihCoV-19/Malaysia/UNIMAS-B16620/2022","EPI_ISL_12509993","2022-03-25","21L (Omic
 "hCoV-19/Malaysia/IMR_OS983/2022","EPI_ISL_12983270","2022-04-23","21L (Omicron)","322.668038","bad","BP Healthcare Group","IMR"
 "hCoV-19/Malaysia/IMR_OS984/2022","EPI_ISL_12983271","2022-04-25","21L (Omicron)","350.244294","bad","BP Healthcare Group","IMR"
 "hCoV-19/Malaysia/IMR_OS985/2022","EPI_ISL_12983272","2022-04-25","21L (Omicron)","2.238903","good","BP Healthcare Group","IMR"
+"hCoV-19/Malaysia/USM_Monash_JKNK_C16096/2022","EPI_ISL_12914933","2022-01-10","21J (Delta)","32.500772","mediocre","HUSM","HUSM"
+"hCoV-19/Malaysia/USM_Monash_JKNK_H50_24751/2022","EPI_ISL_12935247","2022-04-06","21L (Omicron)","56.25","mediocre","Hospital Raja Perempuan Zainab II","HUSM"
+"hCoV-19/Malaysia/USM_Monash_JKNK_M40_22032556/2022","EPI_ISL_12935248","2022-03-30","21L (Omicron)","0","good","MKA Kota Bharu","HUSM"
+"hCoV-19/Malaysia/USM_Monash_JKNK_H32_23789/2022","EPI_ISL_12935250","2022-03-26","21L (Omicron)","0","good","Hospital Raja Perempuan Zainab II","HUSM"
+"hCoV-19/Malaysia/USM_Monash_JKNK_M10_10716/2022","EPI_ISL_12980330","2022-02-24","21K (Omicron)","72.309314","mediocre","MKA Kota Bharu","HUSM"

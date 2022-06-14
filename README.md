@@ -30,8 +30,3 @@
 <b>submitlab.csv</b> : samples submitting institution information
 
 <b>variants.csv</b> : samples variant classification
-
-------------------------------------
-------------------------------------
-a
-

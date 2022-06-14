@@ -1,32 +1,32 @@
 # c19-gsv
-Malaysia COVID-19 Genomics Surveillance Updates
+<b>Malaysia COVID-19 Genomics Surveillance Updates</b>
 
-asean.csv : total GISAID submission for ASEAN countries.
+<b>asean.csv</b> : total GISAID submission for ASEAN countries.
 
-clades.csv : samples GISAID clades information
+<b>clades.csv</b> : samples GISAID clades information
 
-dates.csv : samples collection and GISAID submission dates
+<b>dates.csv</b> : samples collection and GISAID submission dates
 
-gender.csv : samples gender information
+<b>gender.csv</b> : samples gender information
 
-location.csv : samples state information
+<b>location.csv</b> : samples state information
 
-majorvariants.csv : Malaysia major variants (B.1.524, alpha, beta, delta & omicron) information
+<b>majorvariants.csv</b> : Malaysia major variants (B.1.524, alpha, beta, delta & omicron) information
 
-nexclade.csv : samples nexclade classification and status
+<b>nexclade.csv</b> : samples nexclade classification and status
 
-nextclade.tsv : samples nexclade classification and overall QC status in tsv format
+<b>nextclade.tsv</b> : samples nexclade classification and overall QC status in tsv format
 
-nextcladeqc.csv : samples nextclade QC status for each submission's institution
+<b>nextcladeqc.csv</b> : samples nextclade QC status for each submission's institution
 
-pangolin.csv : samples PANGO Lineage classification
+<b>pangolin.csv</b> : samples PANGO Lineage classification
 
-patientinfo.csv : samples patient's information
+<b>patientinfo.csv</b> : samples patient's information
 
-sampleorigin.csv : samples origin and submission's institution information
+<b>sampleorigin.csv</b> : samples origin and submission's institution information
 
-seqtech.csv : sequencing and assembly technology information in generating the whole genome sequence.
+<b>seqtech.csv</b> : sequencing and assembly technology information in generating the whole genome sequence.
 
-submitlab.csv : samples submitting institution information
+<b>submitlab.csv</b> : samples submitting institution information
 
-variants.csv : samples variant classification
+<b>variants.csv</b> : samples variant classification

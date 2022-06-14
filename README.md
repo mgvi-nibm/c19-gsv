@@ -25,7 +25,7 @@ patientinfo.csv : samples patient's information
 
 sampleorigin.csv : samples origin and submission's institution information
 
-seqtech.csv : sequencing and assembly technology information in generating the genome data.
+seqtech.csv : sequencing and assembly technology information in generating the whole genome sequence.
 
 submitlab.csv : samples submitting institution information
 

@@ -30,3 +30,7 @@
 <b>submitlab.csv</b> : samples submitting institution information
 
 <b>variants.csv</b> : samples variant classification
+-------------------------------------------------------
+
+* Data compiled by: Malaysia Genome and Vaccine Institute.<br>
+  For further information, please contact Mohd Noor Mat Isa at emno@nibm.my.

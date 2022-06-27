@@ -20675,3 +20675,5 @@
 "hCoV-19/Malaysia/MGVI_GU0111/2022","EPI_ISL_13469893","2022-02-26","Illumina MiSeq","MEGAHIT v1.2.9"
 "hCoV-19/Malaysia/MGVI_GU0112/2022","EPI_ISL_13469894","2022-02-28","Illumina MiSeq","MEGAHIT v1.2.9"
 "hCoV-19/Malaysia/MGVI_GU0113/2022","EPI_ISL_13469895","2022-02-24","Illumina MiSeq","MEGAHIT v1.2.9"
+"hCoV-19/Malaysia/IMR_CV04537/2022","EPI_ISL_13414934","2022-06-07","Illumina NextSeq 500",""
+"hCoV-19/Malaysia/UKM2150/2021","EPI_ISL_13417463","2021-10-11","Illumina MiSeq system","Bowtie 2 (version 2.4.4) and SAMtools v1.13"

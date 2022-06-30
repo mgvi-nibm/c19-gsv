@@ -20862,3 +20862,4 @@
 "hCoV-19/Malaysia/MKAK_CL_22_29300/2022","EPI_ISL_13517538","2022-06-14","Illumina MiSeq","Dragen COVID Lineage 3.5.9"
 "hCoV-19/Malaysia/MKAK_CL_22_29594/2022","EPI_ISL_13517539","2022-06-13","Illumina MiSeq","Dragen COVID Lineage 3.5.9"
 "hCoV-19/Malaysia/MKAK_CL_22_29900/2022","EPI_ISL_13517540","2022-06-16","Illumina MiSeq","Dragen COVID Lineage 3.5.9"
+"hCoV-19/Malaysia/UKM4323/2021","EPI_ISL_13498259","2021-11-01","Illumina MiSeq system","Bowtie 2 (version 2.4.4) and SAMtools v1.13"

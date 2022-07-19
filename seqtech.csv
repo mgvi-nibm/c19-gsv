@@ -21506,3 +21506,4 @@
 "hCoV-19/Malaysia/IMR_CV04624/2022","EPI_ISL_13871616","2022-06-18","Illumina NextSeq 500"
 "hCoV-19/Malaysia/IMR_CV04626/2022","EPI_ISL_13871617","2022-06-23","Illumina NextSeq 500"
 "hCoV-19/Malaysia/IMR_CV04630/2022","EPI_ISL_13871618","2022-06-21","Illumina NextSeq 500"
+"hCoV-19/Malaysia/USM_Monash_JKNK_H47_Q_24599/2022","EPI_ISL_13902852","2022-04-04","Illumina","bowtie2(v2.4.2), samtools(v1.11), IVAR(v.1.2.2)"

@@ -39464,3 +39464,5 @@
 "hCoV-19/Malaysia/TIDREC-NSC2695/2023","EPI_ISL_17761453","2023-05-13","Ion Torrent","IRMAreport v1.3.0.2"
 "hCoV-19/Malaysia/TIDREC-NSC2696/2023","EPI_ISL_17761454","2023-05-10","Ion Torrent","IRMAreport v1.3.0.2"
 "hCoV-19/Malaysia/USM_M255_30789/2023","EPI_ISL_17769809","2023-04-18","Nanopore","minimap2(v.2.18), medaka(v.1.4.3), nanopolish(v.0.13.2), samtools(v.1.10)"
+"hCoV-19/Malaysia/TIDREC-AUFI051/2022","EPI_ISL_17778459","2022-12-13","Nanopore MinION","Medeka 1.7.2"
+"hCoV-19/Malaysia/TIDREC-AUFI024/2022","EPI_ISL_17778460","2022-11-23","Nanopore MinION","Medeka 1.7.2"

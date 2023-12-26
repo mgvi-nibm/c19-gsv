@@ -16,6 +16,6 @@
 <b>seqtech.csv</b> : sequencing and assembly technology information in generating the whole genome sequence.<br>
 <b>submitlab.csv</b> : samples submitting institution information<br>
 <b>variants.csv</b> : samples variant classification<br></p>
--------------------------------------------------------
+---------------------------------------------------------------------------<br>
 * Data compiled by: Malaysia Genome and Vaccine Institute.<br>
   For further information, please contact Mohd Noor Mat Isa at emno@nibm.my.
